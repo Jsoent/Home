@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'SUV',
 			icon: 'university',
-			link: 'suv2.unitru.edu.pe',
+			link: 'https://suv2.unitru.edu.pe',
 		},
 		{
 			id: '4',
 			name: 'AV',
 			icon: 'graduation-cap',
-			link: 'aulavirtual2.unitru.edu.pe',
+			link: 'https://aulavirtual2.unitru.edu.pe',
 		},
 		{
 			id: '5',
